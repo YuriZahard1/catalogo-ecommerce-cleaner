@@ -1,0 +1,16 @@
+﻿ref_prov;articulo;marca;familia;col;talla_disp;detalle;estado_validacion;problemas_detectados;posible_duplicado
+NX-041;ZAP RUN PULSE H NEG;Nivexo;Zapatillas running;Negro;40, 41, 42, 43;malla exterior;OK;SKU similar a nx041 | SKU similar a nx041-B;REVISAR
+rx_22;trail Roca mujer gris;Orvanta;Zapatillas trail;Gris oscuro;EU 37, EU 38, EU 39;suela con tacos;OK;;NO
+73;URBAN FLEX bco;Nivexo;Zapatillas;Blanco;36, 37, 38;cordones;OK;;NO
+T-109;camis. sprint MC azul;Velkora;Camisetas;Azul marino;S, M, L;mc;OK;Título similar al de C-088;REVISAR
+V5/020;MALLA CORE 7/8;Velkora;Mallas;Negro;XS, S, M;bolsillo lateral;OK;;NO
+JKT 902;Cortavientos VIENTO;Orvanta;Chaquetas deportivas;Verde oliva;M, L, XL;;REVISAR;Campo vacío: detalle;NO
+nx041;pulse running hombre negro;Nivexo;Zapatillas running;Negro;40-43;zapa malla;REVISAR;Confirmar significado del rango de tallas: 40-43 | SKU similar a NX-041 | SKU similar a nx041-B;REVISAR
+sh_015;short cancha;Velkora;Pantalones cortos;Rojo;S, M, L;bolsillos;OK;;NO
+A.009;SUD CAP. NUBE gris;Nivexo;Sudaderas;Gris claro;Mediana, Grande;cap.;REVISAR;Confirmar equivalencia de talla: mediana | Confirmar equivalencia de talla: grande;NO
+;Top Aero tirantes;Velkora;Tops deportivos;Blanco/Negro;XS, S;tirantes;ERROR;Confirmar color: Blanco/Negro | Campo vacío: ref_prov;NO
+C-088;Camiseta sprint manga corta azul marino;Velkora;Camisetas;Azul marino;S, M, L;camiseta;OK;Título similar al de T-109;REVISAR
+nx041-B;PULSE RUN H BLANCO;Nivexo;Zapatillas running;Blanco;40, 41, 42, 43;malla exterior;OK;SKU similar a NX-041 | SKU similar a nx041;REVISAR
+2-300;PANT TRK BASE;Nivexo;Pantalones;;M, L, XL;cremallera en tobillo;REVISAR;Campo vacío: col;NO
+ORT_56;zapatilla pista Set;;Calzado de interior;Azul;;suela lisa;REVISAR;Campo vacío: marca | Campo vacío: talla_disp;NO
+s0x-13;Calc. ritmo pack 3;Orvanta;Calcetines;Varios;35-38, 39-42;"3 pares; caña corta";REVISAR;Confirmar significado del rango de tallas: 35-38 | Confirmar significado del rango de tallas: 39-42 | Confirmar color: Varios;NO

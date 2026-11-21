@@ -1,0 +1,16 @@
+﻿articulo;ref_prov_original;ref_prov;marca_original;marca;familia_original;familia;col_original;col;talla_disp_original;talla_disp;detalle;estado_validacion;problemas_detectados;posible_duplicado
+ZAP RUN PULSE H NEG; NX-041 ;NX-041;Nivexo;Nivexo;CALZADO RUN;Zapatillas running;neg.;Negro;40/41/42/43;40, 41, 42, 43;malla exterior;REVISAR;SKU muy similar a nx041 | Posible variante asociada: nx041-B;REVISAR
+trail Roca mujer gris;rx_22;rx_22;orvanta;Orvanta;trail shoes;Zapatillas trail;GRIS OSC.;Gris oscuro;EU 37, EU 38, EU 39;EU 37, EU 38, EU 39;suela con tacos;OK;;NO
+URBAN FLEX bco;73;73;NIVEXO;Nivexo;zapas;Zapatillas;Bco.;Blanco;36 37 38;36, 37, 38;cordones;OK;;NO
+camis. sprint MC azul;T-109;T-109; Velkora ;Velkora;TEXTIL SUP;Camisetas;az mar.;Azul marino;S-M-L;S, M, L;mc;OK;;NO
+MALLA CORE 7/8;V5/020;V5/020;velkora;Velkora;mallas;Mallas;BLACK;Negro;XS | S | M;XS, S, M;bolsillo lateral;OK;;NO
+Cortavientos VIENTO;JKT 902;JKT 902;Orvanta;Orvanta;chaquetas dep.;Chaquetas deportivas;VERDE OLIVA;Verde oliva;M, L, XL;M, L, XL;;REVISAR;Campo vacío: detalle;NO
+pulse running hombre negro;nx041;nx041;nivexo;Nivexo;Zapatillas running;Zapatillas running;Negro;Negro;40-43;40-43;zapa malla;REVISAR;Confirmar significado del rango de tallas: 40-43 | SKU muy similar a NX-041 | Posible variante asociada: nx041-B;REVISAR
+short cancha;sh_015;sh_015;Velkora;Velkora;pantalon corto;Pantalones cortos;rojo;Rojo;S / M / M / L;S, M, L;bolsillos;OK;;NO
+SUD CAP. NUBE gris;A.009;A.009;Nivexo;Nivexo;SUDADERA;Sudaderas;Gris Claro;Gris claro;mediana / grande;Mediana, Grande;cap.;REVISAR;Confirmar equivalencia de talla: mediana | Confirmar equivalencia de talla: grande;NO
+Top Aero tirantes;;;VElKORA;Velkora;top deportivo;Tops deportivos;blanco/negro;Blanco/Negro;XS,S;XS, S;tirantes;ERROR;Confirmar color: Blanco/Negro | Campo vacío: ref_prov;NO
+Camiseta sprint manga corta azul marino;C-088;C-088;VELKORA;Velkora;camisetas;Camisetas;Azul Marino;Azul marino;S / M / L;S, M, L;camiseta;OK;;NO
+PULSE RUN H BLANCO;nx041-B;nx041-B;Nivexo;Nivexo;running;Zapatillas running;BLANCO;Blanco;40, 41, 42, 43;40, 41, 42, 43;malla exterior;REVISAR;Posible variante de NX-041 | Posible variante de nx041;REVISAR
+PANT TRK BASE;2-300;2-300;nivexo;Nivexo;PANTALONES;Pantalones;;;M L XL;M, L, XL;cremallera en tobillo;REVISAR;Campo vacío: col;NO
+zapatilla pista Set;ORT_56;ORT_56;;;calzado indoor;Calzado de interior;azul;Azul;;;suela lisa;REVISAR;Campo vacío: marca | Campo vacío: talla_disp;NO
+Calc. ritmo pack 3;s0x-13;s0x-13;orvanta;Orvanta;;Calcetines;varios;Varios;35-38 / 39-42;35-38, 39-42;"3 pares; caña corta";REVISAR;Confirmar significado del rango de tallas: 35-38 | Confirmar significado del rango de tallas: 39-42 | Confirmar color: Varios;NO

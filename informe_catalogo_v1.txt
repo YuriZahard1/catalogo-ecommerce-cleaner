@@ -1,0 +1,75 @@
+AUDITORÍA DEL CATÁLOGO
+
+Número total de productos: 15
+Productos con estado OK: 6
+Productos con estado REVISAR: 8
+Productos con estado ERROR: 1
+Productos marcados como posibles duplicados o variantes: 3
+Productos con campos vacíos: 4
+Productos con problemas de tallas: 4
+Productos con problemas de color: 3
+Productos con problemas de SKU: 4
+
+Un producto puede aparecer en varios tipos de incidencia.
+
+PRODUCTOS QUE REQUIEREN REVISIÓN
+
+SKU: NX-041
+Producto: ZAP RUN PULSE H NEG
+Estado: REVISAR
+Problemas detectados: SKU muy similar a nx041. Posible variante asociada: nx041-B
+Posible duplicado: REVISAR
+
+SKU: JKT 902
+Producto: Cortavientos VIENTO
+Estado: REVISAR
+Problemas detectados: Falta descripción
+Posible duplicado: NO
+
+SKU: nx041
+Producto: pulse running hombre negro
+Estado: REVISAR
+Problemas detectados: Confirmar significado del rango de tallas: 40-43. SKU muy similar a NX-041. Posible variante asociada: nx041-B
+Posible duplicado: REVISAR
+
+SKU: A.009
+Producto: SUD CAP. NUBE gris
+Estado: REVISAR
+Problemas detectados: Confirmar equivalencia de talla: mediana. Confirmar equivalencia de talla: grande
+Posible duplicado: NO
+
+SKU: Sin SKU
+Producto: Top Aero tirantes
+Estado: ERROR
+Problemas detectados: Confirmar color: Blanco/Negro. Falta SKU
+Posible duplicado: NO
+
+SKU: nx041-B
+Producto: PULSE RUN H BLANCO
+Estado: REVISAR
+Problemas detectados: Posible variante de NX-041. Posible variante de nx041
+Posible duplicado: REVISAR
+
+SKU: 2-300
+Producto: PANT TRK BASE
+Estado: REVISAR
+Problemas detectados: Falta color
+Posible duplicado: NO
+
+SKU: ORT_56
+Producto: zapatilla pista Set
+Estado: REVISAR
+Problemas detectados: Falta marca. Falta tallas
+Posible duplicado: NO
+
+SKU: s0x-13
+Producto: Calc. ritmo pack 3
+Estado: REVISAR
+Problemas detectados: Confirmar significado del rango de tallas: 35-38. Confirmar significado del rango de tallas: 39-42. Confirmar color: Varios
+Posible duplicado: NO
+
+RESUMEN
+
+Productos que requieren revisión manual: 8
+Productos con error: 1
+Total de productos pendientes: 9

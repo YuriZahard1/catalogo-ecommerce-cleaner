@@ -1,0 +1,16 @@
+﻿ref_prov;articulo;marca;familia;col;talla_disp;detalle;estado_validacion;problemas_detectados
+NX-041;ZAP RUN PULSE H NEG;Nivexo;Zapatillas running;Negro;40, 41, 42, 43;malla exterior;OK;
+rx_22;trail Roca mujer gris;Orvanta;Zapatillas trail;Gris oscuro;EU 37, EU 38, EU 39;suela con tacos;OK;
+73;URBAN FLEX bco;Nivexo;Zapatillas;Blanco;36, 37, 38;cordones;OK;
+T-109;camis. sprint MC azul;Velkora;Camisetas;Azul marino;S, M, L;mc;OK;
+V5/020;MALLA CORE 7/8;Velkora;Mallas;Negro;XS, S, M;bolsillo lateral;OK;
+JKT 902;Cortavientos VIENTO;Orvanta;Chaquetas deportivas;Verde oliva;M, L, XL;;REVISAR;Campo vacío: detalle
+nx041;pulse running hombre negro;Nivexo;Zapatillas running;Negro;40-43;zapa malla;REVISAR;Confirmar significado del rango de tallas: 40-43
+sh_015;short cancha;Velkora;Pantalones cortos;Rojo;S, M, L;bolsillos;OK;
+A.009;SUD CAP. NUBE gris;Nivexo;Sudaderas;Gris claro;Mediana, Grande;cap.;REVISAR;Confirmar equivalencia de talla: mediana | Confirmar equivalencia de talla: grande
+;Top Aero tirantes;Velkora;Tops deportivos;Blanco/Negro;XS, S;tirantes;ERROR;Confirmar color: Blanco/Negro | Campo vacío: ref_prov
+C-088;Camiseta sprint manga corta azul marino;Velkora;Camisetas;Azul marino;S, M, L;camiseta;OK;
+nx041-B;PULSE RUN H BLANCO;Nivexo;Zapatillas running;Blanco;40, 41, 42, 43;malla exterior;OK;
+2-300;PANT TRK BASE;Nivexo;Pantalones;;M, L, XL;cremallera en tobillo;REVISAR;Campo vacío: col
+ORT_56;zapatilla pista Set;;Calzado de interior;Azul;;suela lisa;REVISAR;Campo vacío: marca | Campo vacío: talla_disp
+s0x-13;Calc. ritmo pack 3;Orvanta;Calcetines;Varios;35-38, 39-42;"3 pares; caña corta";REVISAR;Confirmar significado del rango de tallas: 35-38 | Confirmar significado del rango de tallas: 39-42 | Confirmar color: Varios
